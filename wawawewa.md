@@ -1,7 +1,25 @@
-# Wawawewa
+# Hello World in Wawawewa
 
-This is new content in the repository.
+This file contains hello world code examples.
 
-> Wa wa wee wa! - Borat
+## Python
 
-Created on branch `borat`.
+```python
+print("Hello, World! Wa wa wee wa!")
+```
+
+## JavaScript
+
+```javascript
+console.log("Hello, World! Wawawewa!");
+```
+
+## Bash
+
+```bash
+echo "Hello, World! Jagshemash!"
+```
+
+## Borat Style
+
+> My name Borat. I like you. I like sex. Wawawewa!
